@@ -4,7 +4,7 @@ This is the Project 3 Client Repo
 
 ## Installation
 
-* Clone the repo
+* Clone down the repo
 * cd into spawned directory
 * `npm install`
 * `npm start`
